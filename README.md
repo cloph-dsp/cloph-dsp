@@ -5,9 +5,9 @@
 🎓 <b>Master's</b>: Sound Technology & Production @ Universidade Lusófona <br>
 📚 <b>Additional courses</b>: programming logic, C/C++ <br>
 🎧 <b>Audio</b>: Faust & Plugdata <br>
-💼 <b>Job</b>: Flow Designer & QA for a chatbot @ 
-<img src="https://img.shields.io/badge/Vodafone-E60000?style=for-the-badge&logo=vodafone&logoColor=white" height="18" alt="Vodafone logo"/> (focus: NLP & LLM integration, using Azure Bot Framework) <br>
-🐍 <b>Learning</b>: Machine Learning, Strudel & audio plugin development
+💼 <b>Job</b>: Conversation Designer (NLP & GenAI) & QA @ 
+<img src="https://img.shields.io/badge/Vodafone-E60000?style=for-the-badge&logo=vodafone&logoColor=white" height="18" alt="Vodafone logo"/> <br>
+🐍 <b>Learning</b>: Python, Machine Learning, Strudel & audio plugin development
 </div>
 
 <br>
