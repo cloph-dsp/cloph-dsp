@@ -1,23 +1,24 @@
 <!-- About Me Section -->
 <div align="center" style="margin-top: 40px;">
 <h2>📖 About Me</h2>
-🕹 Kid game dev: made GameMaker games as a kid <br>
-🎓 Master's: Sound Technology & Production @ Universidade Lusófona <br>
-📚 Additional courses: programming logic, C/C++ <br>
-🎧 Audio: Faust & Plugdata <br>
-💼 Job: Flow Designer & QA for a chatbot, with a focus on NLP & LLM integration @ 
-<img src="https://img.shields.io/badge/Vodafone-E60000?style=for-the-badge&logo=vodafone&logoColor=white" height="18" alt="Vodafone logo"/> (using Azure Bot Framework) <br>
-🐍 Learning: Python, Machine Learning, Strudel & audio plugin development
+🕹 <b>Kid game dev</b>: made GameMaker games as a kid <br>
+🎓 <b>Master's</b>: Sound Technology & Production @ Universidade Lusófona <br>
+📚 <b>Additional courses</b>: programming logic, C/C++ <br>
+🎧 <b>Audio</b>: Faust & Plugdata <br>
+💼 <b>Job</b>: Flow Designer & QA for a chatbot @ 
+<img src="https://img.shields.io/badge/Vodafone-E60000?style=for-the-badge&logo=vodafone&logoColor=white" height="18" alt="Vodafone logo"/> (focus: NLP & LLM integration, using Azure Bot Framework) <br>
+🐍 <b>Learning</b>: Machine Learning, Strudel & audio plugin development
 </div>
 
 <br>
 
 <!-- Skill Badges -->
 <div align="center" style="margin-top: 20px;">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/C/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C/C++"/>
   <img src="https://img.shields.io/badge/Faust-ff69b4?style=for-the-badge&logoColor=white" alt="Faust"/>
   <img src="https://img.shields.io/badge/Plugdata-007ACC?style=for-the-badge&logoColor=white" alt="Plugdata"/>
   <img src="https://img.shields.io/badge/Strudel-6e5494?style=for-the-badge&logoColor=white" alt="Strudel"/>
+  <img src="https://img.shields.io/badge/Azure%20Bot%20Framework-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure Bot Framework"/>
   <img src="https://img.shields.io/badge/Vibecode-Ff8800?style=for-the-badge&logoColor=white" alt="Vibecode"/>
 </div>
 
