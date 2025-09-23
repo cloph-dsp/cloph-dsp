@@ -1,4 +1,4 @@
-<h2 align="center">Hi there 👋</h2>
+[<h2 align="center">Hi there 👋</h2>
 <p align="center">
   🔹 Flow Designer & QA for chatbots (NLP & LLM) | MSc in Sound Technology & Production <br>
   🔹 Music producer exploring audio & plugins
@@ -23,3 +23,4 @@
 </div>
 
 <h3 align="center" style="margin-top: 20px;">🎧 Exploring the intersection of sound, music, and AI</h3>
+](https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/1024px-LinkedIn_icon.svg.png)
