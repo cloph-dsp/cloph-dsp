@@ -37,12 +37,12 @@
 
 <br>
 
-<!-- Social Links -->
-<div align="center" style="margin-top: 20px; display: flex; justify-content: center; gap: 30px;">
+<!-- Social Links as Dynamic Badges -->
+<div align="center" style="margin-top: 30px; display: flex; justify-content: center; gap: 20px;">
   <a href="https://beacons.ai/frnkcranio" target="_blank">
-    <img src="https://images.prismic.io/sacra/616ba7e3-9369-41a4-81e3-43c49590b8ac_beacons_logo.png" height="40" alt="Beacons"/>
+    <img src="https://img.shields.io/badge/Beacons-1DE9B6?style=for-the-badge&logo=linktree&logoColor=white" alt="Beacons"/>
   </a>
   <a href="https://www.linkedin.com/in/pedro-fsf-castro/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/1024px-LinkedIn_icon.svg.png" height="40" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </div>
