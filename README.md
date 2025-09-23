@@ -5,9 +5,8 @@
 🎓 Master's: Sound Technology & Production @ Universidade Lusófona <br>
 📚 Additional courses: programming logic, C/C++ <br>
 🎧 Audio: Faust & Plugdata <br>
-💼 Job: Flow Designer & QA @ 
-<img src="https://img.shields.io/badge/Vodafone-E60000?style=for-the-badge&logo=vodafone&logoColor=white" height="18" alt="Vodafone logo"/> using 
-<img src="https://img.shields.io/badge/Azure%20Bot%20Framework-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" height="18" alt="Azure Bot Framework"/> <br>
+💼 Job: Flow Designer & QA for a chatbot, with a focus on NLP & LLM integration @ 
+<img src="https://img.shields.io/badge/Vodafone-E60000?style=for-the-badge&logo=vodafone&logoColor=white" height="18" alt="Vodafone logo"/> (using Azure Bot Framework) <br>
 🐍 Learning: Python, Machine Learning, Strudel & audio plugin development
 </div>
 
@@ -24,14 +23,17 @@
 
 <br>
 
-<!-- Social Links as Dynamic Badges -->
-<div align="center" style="margin-top: 20px; display: flex; justify-content: center; gap: 25px;">
+<!-- Social Links Section -->
+<div align="center" style="margin-top: 30px;">
+<h2>🌐 Connect with me</h2>
+<div style="display: flex; justify-content: center; gap: 25px; margin-top: 10px;">
   <a href="https://beacons.ai/frnkcranio" target="_blank">
     <img src="https://img.shields.io/badge/Beacons-1DE9B6?style=for-the-badge&logo=linktree&logoColor=white&logoWidth=20" height="50" alt="Beacons"/>
   </a>
   <a href="https://www.linkedin.com/in/pedro-fsf-castro/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=20" height="50" alt="LinkedIn"/>
   </a>
+</div>
 </div>
 
 <br>
