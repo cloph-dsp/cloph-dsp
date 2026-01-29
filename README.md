@@ -30,9 +30,3 @@
 </div>
 
 <br>
-
-<!-- GitHub Stats -->
-<div align="center" style="margin-top: 20px; display: flex; justify-content: center; gap: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=cloph-dsp&show_icons=true&theme=dracula&hide_border=false" height="150" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cloph-dsp&layout=compact&langs_count=5&theme=dracula&hide_border=false" height="150" alt="Top languages" />
-</div>
