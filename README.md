@@ -1,32 +1,34 @@
-<!-- About Me Section -->
-<div align="center" style="margin-top: 40px;">
-<h2>📖 About Me</h2>
-🎓 <b>Master's</b>: Sound Technology & Production @ Universidade Lusófona <br>
-🎧 <b>Audio</b>: Faust & Plugdata <br>
-💼 <b>Job</b>: Conversation Designer (NLP & GenAI) & QA @ Vodafone <br>
-🐍 <b>Learning</b>: Python, Machine Learning, Strudel & audio plugin development
+﻿<div align="center">
+  <h1>Pedro Castro</h1>
+  <p><b>Technical Conversation Designer | AI QA | NLP</b></p>
+  <p>Lisbon, Portugal</p>
 </div>
 
-<br>
-
-<!-- Social Links Section -->
-<div align="center" style="margin-top: 30px;">
-<h2>🌐 Connect with me</h2>
-<div style="display: flex; justify-content: center; gap: 25px; margin-top: 10px;">
-  <a href="https://beacons.ai/frnkcranio" target="_blank">
-    <img src="https://img.shields.io/badge/Beacons-1DE9B6?style=for-the-badge&logo=linktree&logoColor=white&logoWidth=20" height="50" alt="Beacons"/>
-  </a>
+<div align="center">
   <a href="https://www.linkedin.com/in/pedro-fsf-castro/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=20" height="50" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:pedrocastromusic@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-1F2937?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </div>
+
+## 📖 About Me
+
+🎓 **Master's:** Sound Technology & Production @ Universidade Lusófona  
+🎧 **Audio:** Faust & Plugdata  
+💼 **Job:** Conversation Designer (NLP & GenAI) & QA @ Vodafone  
+🐍 **Learning:** Python (advanced, in progress)  
+🧠 **Completed:** C/C++ fundamentals  
+🔊 **Intent:** Audio plugin development
+
+## 🚀 Cool Stuff I Work On
+
+- Conversational flows for web, voice, and messaging channels
+- QA, troubleshooting, and root-cause analysis
+- Hybrid design: rules + LLM
+- Diagnostics with Splunk and Dynatrace
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/cloph-dsp/cloph-dsp/output/snake.svg" alt="Snake animation" width="900" />
 </div>
-
-<br>
-
-<!-- Snake Animation -->
-<div align="center" style="margin-top: 20px;">
-  <img src="https://raw.githubusercontent.com/cloph-dsp/cloph-dsp/output/snake.svg" alt="Snake animation" width="800" />
-</div>
-
-<br>
