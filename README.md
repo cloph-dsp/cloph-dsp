@@ -40,26 +40,14 @@
 - 🤖 **Architect, not coder** — I direct the agent, hold the spec, and own the result. Production-grade VST3s and audio tools, shipped by vibe.
 - 📦 **Published** — [Freeze95](https://cloph.gumroad.com/l/freeze95) spectral freezing VST3
 
-### 📈 GitHub
+### 🏗️ Projects
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cloph-dsp&show_icons=true&theme=dark&hide_border=true&count_private=true&bg_color=0D1117&icon_color=58A6FF&title_color=58A6FF" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cloph-dsp&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF" height="160"/>
-</p>
-
-### 🏗️ Projects | Project | Stack | Status |
+| Project | Stack | Status |
 |---------|-------|--------|
 | **[Freeze95](https://cloph.gumroad.com/l/freeze95)** — spectral freezing VST3 | Faust | ✅ Published |
 | **Grungr Revive** — distortion VST3 | iPlug2 | 🛠️ WIP |
 | **EIGHTOHEIGHT** — 8-voice 808 synth | iPlug2 | 🛠️ WIP |
 | **3-Beat Problem** — step sequencer | JUCE | 🛠️ WIP |
-
-### ✨ Contributions
-
-- [CognitoniBlkFx](https://github.com/toni-lyttinen/CognitoniBlkFx) — spectral FX plugin (7 PRs)
-- [AI-Horde](https://github.com/Haidra-Org/AI-Horde) — distributed AI cluster
-- [ChordMiniApp](https://github.com/ptnghia-j/ChordMiniApp) — ML chord recognition
-- [opencode-mobile](https://github.com/dzianisv/opencode-mobile) — AI coding on mobile
 
 ---
 
