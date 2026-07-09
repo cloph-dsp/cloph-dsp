@@ -2,7 +2,7 @@
 
 - 🎓 **MSc** Sound Technology & Production @ Universidade Lusófona *(17/20)*
 - 🎓 **BSc** Communication Sciences @ ISCSP, University of Lisbon
-- 💼 **AI Flow Engineer @ Closer Consulting** — orchestrating LLM-powered conversational agents in the energy sector (Automaise)
+- 💼 **AI Flow Engineer @ Closer Consulting** — orchestrating LLM-powered conversational agents in the energy sector
 - 🔊 **DSP & Plugins** — I design the signal flow and the UX; the model writes the code. I review, listen, and ship.
 - 📦 **Published** — [Freeze95](https://cloph.gumroad.com/l/freeze95) spectral freezing VST3
 
