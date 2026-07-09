@@ -36,21 +36,9 @@
 - 🎓 **MSc** Sound Technology & Production @ Universidade Lusófona *(17/20)*
 - 🎓 **BSc** Communication Sciences @ ISCSP, University of Lisbon
 - 💼 **AI Flow Engineer @ Closer Consulting** — orchestrating LLM-powered conversational agents in the energy sector (Automaise)
-- 🔊 **DSP & Plugins** — Cmajor, Faust, iPlug2/JUCE
-- 🤖 **Agentic & Vibe Coder** — LLMs as my engineering workforce. I architect, review, and ship — the AI handles the grind. VST3s, mobile apps, and audio tools shipping faster than traditional solo dev allows.
+- 🔊 **DSP & Plugins** — I design the signal flow and the UX; the LLM writes the Cmajor, Faust, and iPlug2 code. I review, listen, and ship.
+- 🤖 **Architect, not coder** — I direct the agent, hold the spec, and own the result. Production-grade VST3s and audio tools, shipped by vibe.
 - 📦 **Published** — [Freeze95](https://cloph.gumroad.com/l/freeze95) spectral freezing VST3
-
-### 💻 Stack
-
-<p>
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Cmajor-000?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI2NCIgaGVpZ2h0PSI2NCIgdmlld0JveD0iMCAwIDY0IDY0Ij48cGF0aCBkPSJNMzIgMkwyIDI0djE2bDMwIDIyIDMwLTIyVjI0TDMyIDJ6IiBmaWxsPSIjZmZmIi8+PC9zdmc+&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Faust-000?style=flat-square&logo=faust&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
-</p>
 
 ### 📈 GitHub
 
