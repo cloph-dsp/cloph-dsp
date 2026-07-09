@@ -1,36 +1,3 @@
-<p align="center">
-  <samp>
-    <b>cloph</b><br>
-    <em>AI Flow Engineer &middot; VST/DSP Developer</em><br>
-    <sub>Lisbon, Portugal</sub>
-  </samp>
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/pedro-fsf-castro/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:pedrocastromusic@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-0A0A0A?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://cloph.gumroad.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gumroad-0A0A0A?style=for-the-badge&logo=gumroad&logoColor=white" alt="Gumroad"/>
-  </a>
-</p>
-
----
-
-```
-     ╔═══════════════════════════════════════════╗
-     ║        S O N I C   E N G I N E            ║
-     ║     ┌─────────────────────────────┐       ║
-     ║     │  DSP  ←  Cmajor / Faust     │       ║
-     ║     │  GUI  ←  iPlug2 / JUCE      │       ║
-     ║     │  VST3 ←  shipping            │       ║
-     ║     └─────────────────────────────┘       ║
-     ╚═══════════════════════════════════════════╝
-```
-
 ### 🧠 About Me
 
 - 🎓 **MSc** Sound Technology & Production @ Universidade Lusófona *(17/20)*
@@ -39,15 +6,6 @@
 - 🔊 **DSP & Plugins** — I design the signal flow and the UX; the LLM writes the Cmajor, Faust, and iPlug2 code. I review, listen, and ship.
 - 🤖 **Architect, not coder** — I direct the agent, hold the spec, and own the result. Production-grade VST3s and audio tools, shipped by vibe.
 - 📦 **Published** — [Freeze95](https://cloph.gumroad.com/l/freeze95) spectral freezing VST3
-
-### 🏗️ Projects
-
-| Project | Stack | Status |
-|---------|-------|--------|
-| **[Freeze95](https://cloph.gumroad.com/l/freeze95)** — spectral freezing VST3 | Faust | ✅ Published |
-| **Grungr Revive** — distortion VST3 | iPlug2 | 🛠️ WIP |
-| **EIGHTOHEIGHT** — 8-voice 808 synth | iPlug2 | 🛠️ WIP |
-| **3-Beat Problem** — step sequencer | JUCE | 🛠️ WIP |
 
 ---
 
