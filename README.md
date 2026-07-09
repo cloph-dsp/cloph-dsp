@@ -4,7 +4,7 @@
 - 🎓 **BSc** Communication Sciences @ ISCSP, University of Lisbon
 - 💼 **AI Flow Engineer @ Closer Consulting** — orchestrating LLM-powered conversational agents in the energy sector (Automaise)
 - 🔊 **DSP & Plugins** — I design the signal flow and the UX; the LLM writes the Cmajor, Faust, and iPlug2 code. I review, listen, and ship.
-- 🤖 **Architect, not coder** — I direct the agent, hold the spec, and own the result. Production-grade VST3s and audio tools, shipped by vibe.
+- 🤖 **Architect, not coder** — I direct the agent, hold the spec, and own the result. Production-grade VST3s and audio tools, shipped via agentic workflow.
 - 📦 **Published** — [Freeze95](https://cloph.gumroad.com/l/freeze95) spectral freezing VST3
 
 ---
