@@ -25,7 +25,7 @@
      ║        S O N I C   E N G I N E            ║
      ║     ┌─────────────────────────────┐       ║
      ║     │  DSP  ←  Cmajor / Faust     │       ║
-     ║     │  GUI  ←  Amorph / iPlug2    │       ║
+     ║     │  GUI  ←  iPlug2 / JUCE      │       ║
      ║     │  VST3 ←  shipping            │       ║
      ║     └─────────────────────────────┘       ║
      ╚═══════════════════════════════════════════╝
@@ -33,11 +33,11 @@
 
 ### 🧠 About Me
 
-- 🎓 **Masters** — Sound Technology & Production @ Universidade Lusófona
-- 💼 **AI Flow Engineer** — NLP, LLM orchestration, conversation design, QA
-- 🔊 **DSP & Plugins** — Cmajor, Faust, iPlug2/JUCE, Amorph
-- 🤖 **Vibe & Agentic Coding** — LLMs as my pair programmer, shipping VST3s faster
-- 🛠️ **Currently building** — spectral processors, creative audio tools, Amorph patches
+- 🎓 **MSc** Sound Technology & Production @ Universidade Lusófona *(17/20)*
+- 🎓 **BSc** Communication Sciences @ ISCSP, University of Lisbon
+- 💼 **AI Flow Engineer @ Closer Consulting** — orchestrating LLM-powered conversational agents in the energy sector (Automaise)
+- 🔊 **DSP & Plugins** — Cmajor, Faust, iPlug2/JUCE
+- 🤖 **Agentic & Vibe Coder** — LLMs as my engineering workforce. I architect, review, and ship — the AI handles the grind. VST3s, mobile apps, and audio tools shipping faster than traditional solo dev allows.
 - 📦 **Published** — [Freeze95](https://cloph.gumroad.com/l/freeze95) spectral freezing VST3
 
 ### 💻 Stack
@@ -62,9 +62,9 @@
 ### 🏗️ Projects | Project | Stack | Status |
 |---------|-------|--------|
 | **[Freeze95](https://cloph.gumroad.com/l/freeze95)** — spectral freezing VST3 | Faust | ✅ Published |
-| **Grungr Revive** — distortion VST3 | Amorph / Cmajor | 🛠️ WIP |
-| **EIGHTOHEIGHT** — 8-voice 808 synth | Amorph / Cmajor | 🛠️ WIP |
-| **3-Beat Problem** — step sequencer | Amorph MIDI | 🛠️ WIP |
+| **Grungr Revive** — distortion VST3 | iPlug2 | 🛠️ WIP |
+| **EIGHTOHEIGHT** — 8-voice 808 synth | iPlug2 | 🛠️ WIP |
+| **3-Beat Problem** — step sequencer | JUCE | 🛠️ WIP |
 
 ### ✨ Contributions
 
@@ -76,7 +76,7 @@
 ---
 
 <p align="center">
-  <sub><em>signal flows through everything</em></sub>
+  <sub><em>signal flows through everything · for the commons, always</em></sub>
 </p>
 
 <p align="center">
